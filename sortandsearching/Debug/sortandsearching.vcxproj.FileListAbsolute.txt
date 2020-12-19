@@ -1,0 +1,2 @@
+C:\Users\Tk\Source\Repos\sortandsearching\Debug\sortandsearching.exe
+C:\Users\Tk\Source\Repos\sortandsearching\Debug\sortandsearching.pdb
